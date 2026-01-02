@@ -20,9 +20,11 @@ Trie, Hash Table, Singly Linked List, Arrays
 ## Usage
 
 ```bash
-gcc doc_search.c -o doc_search
-./doc_search file1.txt file2.txt
+gcc main.c -o main.c
+./main.c file1.txt file2.txt
 ```
+
+**Note :** *file1.txt* and *file2.txt* are the input documents to be searched.
 
 ## Notes
 
