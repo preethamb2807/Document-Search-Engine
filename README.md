@@ -28,6 +28,6 @@ gcc main.c -o main.c
 
 ## Notes
 
-Implemented entirely in C for academic and learning purposes.
+Implemented entirely in C with potential applications in text search and information retrieval systems.
 
 ---
